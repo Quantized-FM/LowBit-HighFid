@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Per-channel uniform quantization of all floating-point weight tensors
 in a Flow Matching model checkpoint, to n_bits precision.
