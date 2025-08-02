@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-quantize_model_per_channel.py
-
 Per-channel uniform quantization of all floating-point weight tensors
 in a Flow Matching model checkpoint, to n_bits precision.
 """
