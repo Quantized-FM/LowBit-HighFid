@@ -213,4 +213,6 @@ Several quantization (per-channel) helper files have been provided in this repos
 1. You are able to pass these files directly through ```train.py``` in the official FM repo with the flag ```---eval_only``` to generate samples, save them and compute corresponding FIDs.
 2. You can pass these files into the other files that come with **this** repo to conduct similar analyses to our paper.
 
+## Analysis
+
 
