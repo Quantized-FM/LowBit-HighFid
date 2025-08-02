@@ -1,6 +1,4 @@
 """
-quantize_model_pwl.py
-
 Per-channel 1-D Piecewise Linear Quantization (PWLQ) of all floating-point weight tensors
 in a Flow Matching model checkpoint, saving the quantized checkpoint.
 
