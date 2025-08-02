@@ -214,5 +214,6 @@ Several quantization (per-channel) helper files have been provided in this repos
 2. You can pass these files into the other files that come with **this** repo to conduct similar analyses to our paper.
 
 ## Analysis
+Analysis of the quantized models' performances can be done directly through the scripts in this repository. For the MNIST and FashionMNIST models, please make sure to run them through the alternative clone that you have set up with the above instructions, as the scripts may not work on the base directory. You can change the model data / architecture, etc... based on the provided ```{dataset}-args.json``` files, but they all follow the same process.
 
 
