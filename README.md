@@ -1,6 +1,6 @@
 # Low-Bit, High-Fidelity: Optimal Transport Quantization for Flow Matching
 
-This repo contains code necessary to replicate, reproduce and validate results from the paper "Low-Bit, High-Fidelity: Optimal Transport Quantization for Flow Matching," submitted to AAAI 2026. 
+This repo contains code necessary to replicate, reproduce and validate results from the paper "Low-Bit, High-Fidelity: Optimal Transport Quantization for Flow Matching." 
 
 A ```requirements.txt``` file has been provided in this repository for all associacted packages, etc. Please create a new environment with these dependencies.
 
